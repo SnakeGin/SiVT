@@ -35,7 +35,7 @@ Official website for the **IJCNN 2026** main track paper:
 ## 🔗 Acknowledgement
 We sincerely thank the following open-source projects for their great contributions to the community:
 * [VideoLLaMA3](https://github.com/DAMO-NLP-SG/VideoLLaMA3) - For advanced video-language modeling.
-* [MM-Det](https://github.com/SparkleXFantasy/MM-Det) - For providing the DVF datasets and detection benchmarks.
+* [MM-Det](https://github.com/SparkleXFantasy/MM-Det) - For providing the DVF datasets.
 
 ## 📜 License
 The license of the code can be found in the [LICENSE.md](LICENSE.md) file.
