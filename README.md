@@ -14,7 +14,8 @@ Official website for the **IJCNN 2026** main track paper:
 ---
 
 ## 🚀 News
-- **[2026.03]** We have released the official repository for SiVT.
+- **[2026.03]** Good News! Our paper has been accepted by IJCNN 2026!
+- **[2026.02]** We have released the official repository for SiVT.
 
 ## 📖 Overview
 
