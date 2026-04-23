@@ -43,4 +43,4 @@ The license of the code can be found in the [LICENSE.md](LICENSE.md) file.
 ## 📧 Contact
 If you have any questions or are interested in our work, please feel free to contact:
 - **Junjie She**: [shejunjie@stu.scu.edu.cn](mailto:shejunjie@stu.scu.edu.cn)
-- School of Cyber Science and Engineering, Sichuan University.
+
