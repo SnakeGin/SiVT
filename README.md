@@ -1,12 +1,15 @@
 # SiVT: Sentence-Inspired Video Tokenization with MLLM for AI-Generated Video Detection
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Paper-Coming%20Soon-red"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Code-Coming%20Soon-blue"></a>
-  <a href="https://img.shields.io/badge/Venue-IJCNN%202026-green"></a>
+  <a href="https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/agHch-ijcnn_pap1916s2.pdf">
+    <img src="https://img.shields.io/badge/Paper-PDF-red">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Venue-IJCNN%202026-green">
+  </a>
 </p>
 
-Official website for the **IJCNN 2026** main track paper: 
+Official repository for the **IJCNN 2026** main track paper: 
 > **“SiVT: Sentence-Inspired Video Tokenization with MLLM for AI-Generated Video Detection"**
 
 **Authors:** Junjie She, Peisong He, Haonan Qiu, Leyao Zhu, Weina Niu.
