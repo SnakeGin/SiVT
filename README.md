@@ -1,7 +1,7 @@
 # SiVT: Sentence-Inspired Video Tokenization with MLLM for AI-Generated Video Detection
 
 <p align="center">
-  <a href="https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/agHch-ijcnn_pap1916s2.pdf">
+  <a href="https://ieeexplore.ieee.org/document/11729937">
     <img src="https://img.shields.io/badge/Paper-PDF-red">
   </a>
   <a href="#">
